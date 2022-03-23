@@ -74,7 +74,7 @@
         "shave": "2.5.3",
         "sprintf-js": "1.1.1",
         "stylis": "^4.0.7",
-        "swagger-ui-react": "^3.25.0",
+        "swagger-ui-react": "^4.7.0",
         "tabbable": "3.1.1",
         "tar": ">=4.4.2",
         "tsc-watch": "^4.0.0",
