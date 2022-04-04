@@ -40,7 +40,7 @@
         "formik": "^2.1.4",
         "highlight.js": "9.15.6",
         "immer": "^2.0.0",
-        "karma-viewport": "^1.0.6",
+        "karma-viewport": "^1.0.9",
         "lodash": "^4.17.11",
         "lodash.debounce": "^4.0.8",
         "moment": "2.24.0",
