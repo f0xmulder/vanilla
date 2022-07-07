@@ -43,7 +43,7 @@
         "karma-viewport": "^1.0.6",
         "lodash": "^4.17.11",
         "lodash.debounce": "^4.0.8",
-        "moment": "2.24.0",
+        "moment": "2.29.4",
         "monaco-editor": "^0.21.2",
         "normalize.css": "8.0.1",
         "numeral": "2.0.6",
